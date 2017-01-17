@@ -1,6 +1,8 @@
 RBush
 =====
 
+This is a fork of the original RBush, since the original developer has no plan for Bower support.
+
 RBush is a high-performance JavaScript library for 2D **spatial indexing** of points and rectangles.
 It's based on an optimized **R-tree** data structure with **bulk insertion** support.
 

@@ -1,0 +1,26 @@
+{
+  "name": "rbush-bower",
+  "description": "High-performance 2D spatial index for rectangles (based on R*-tree with bulk loading and bulk insertion algorithms)",
+  "version": "2.0.1",
+  "main": "dist/rbush.js",
+  "authors": [
+    "Vladimir Agafonkin"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "spatial",
+    "tree",
+    "search",
+    "rectangle",
+    "index",
+    "math"
+  ],
+  "homepage": "https://github.com/haoliangyu/rbush-bower",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
